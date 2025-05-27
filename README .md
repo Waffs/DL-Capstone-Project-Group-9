@@ -31,7 +31,7 @@ This project is a computer vision model designed to classify Nigerian clothing g
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run Code
 
 ### ⚙️ 1. Set Up Environment
 
