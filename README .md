@@ -108,6 +108,7 @@ Project developed by Group 9 — Arewa Data Science Fellowship Capstone Team
 - Shamsu Abdullahi
 - Abubakar Sadiq Sulaiman
 - Taiwo Abbas
+- Ahmad Saad 
 
 ---
 
