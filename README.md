@@ -21,10 +21,6 @@ This project applies **Convolutional Neural Networks (CNNs)** to classify images
 - [Evaluation](#evaluation)  
 - [Project Structure](#project-structure)  
 - [Installation](#installation)  
-- [Usage](#usage)  
-- [Results](#results)  
-- [Contributing](#contributing)  
-- [License](#license)
 
 ---
 
