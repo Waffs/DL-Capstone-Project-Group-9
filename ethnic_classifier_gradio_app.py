@@ -47,4 +47,6 @@ def predict(image):
 
 
 # Launch Gradio interface
-gr.Interface(fn=predict, inputs="image", outputs="label", title="Ethnic Group Classifier").launch()
+gr.Interface(fn=predict, inputs="image", outputs="label", 
+             title="Nigerian Attire Classifier",
+             description="Upload an image of Nigerian attire to classify it as Fulani, Hausa, Igbo, or Yoruba.").launch()

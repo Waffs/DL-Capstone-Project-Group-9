@@ -29,6 +29,7 @@ This project is a computer vision model designed to classify Nigerian clothing g
 └── README.md
 ```
 
+
 ---
 
 ## 🚀 How to Run Code
@@ -119,3 +120,4 @@ Project developed by Group 9 — Arewa Data Science Fellowship Capstone Team
 - Add mobile/web camera support to app
 
 ---
+https://drive.google.com/file/d/12sFm2jiuA5zwIWZWc-teWnniKYkEJzqX/view?usp=sharing
