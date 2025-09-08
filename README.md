@@ -9,7 +9,7 @@ Naziru Abdussalam Ibrahim • Ahmad Saad • Abdulwasiu B. Popoola • Taiwo Sof
 
 ##  Overview
 
-This project applies **Convolutional Neural Networks (CNNs)** to classify images of traditional Nigerian attire by ethnic group. Two prominent architectures—**ResNet-34** and **EfficientNet-B0**—are fine-tuned via transfer learning to create an automated, culturally enriching classification system :contentReference[oaicite:0]{index=0}.
+This study presents a deep learning approach to classify images of Nigerian traditional attire into their respective ethnic categories. Utilizing Convolutional Neural Networks (CNNs), specifically ResNet34 and EfficientNet-B0 architectures, the project aims to automate the identification of cultural garments, thereby contributing to the preservation and appreciation of Nigeria’s rich cultural heritage.
 
 ---
 
