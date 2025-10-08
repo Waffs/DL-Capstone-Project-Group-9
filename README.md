@@ -34,8 +34,7 @@ This study presents a deep learning approach to classify images of Nigerian trad
 ## Data Pipeline
 
 - **Collection:** Used custom Python scripts—`download_attire.py` and `download_attire_extended.py`—to gather images across categories such as Yoruba, Hausa, Igbo, etc. :contentReference[oaicite:2]{index=2}
-- **Preprocessing:** Images were resized, normalized, and augmented to improve model generalization. The dataset was split into training, validation, and test sets. :contentReference[oaicite:3]{index=3}
-
+- **Preprocessing:** Images were resized, normalized, and augmented to improve model generalization. The dataset was split into training, validation, and test sets. 
 ---
 
 ## Models & Training
@@ -43,9 +42,9 @@ This study presents a deep learning approach to classify images of Nigerian trad
 Two CNN architectures were employed:
 
 - **ResNet-34:** A 34-layer residual network; addresses vanishing gradients via skip connections. :contentReference[oaicite:4]{index=4}  
-- **EfficientNet-B0:** Lightweight yet powerful model scaling depth, width, and resolution via compound coefficients. :contentReference[oaicite:5]{index=5}
+- **EfficientNet-B0:** Lightweight yet powerful model scaling depth, width, and resolution via compound coefficients. 
 
-Both models were fine-tuned using pretrained weights. Training utilized cross-entropy loss optimized via stochastic gradient descent. Evaluation metrics include accuracy, precision, recall, and F1-score. :contentReference[oaicite:6]{index=6}
+Both models were fine-tuned using pretrained weights. Training utilized cross-entropy loss optimized via stochastic gradient descent. Evaluation metrics include accuracy, precision, recall, and F1-score. 
 
 ---
 
